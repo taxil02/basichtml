@@ -1,2 +1,2 @@
-FROM taxil02/basichtml
+FROM hshar/webapp
 ADD . /var/www/html	
